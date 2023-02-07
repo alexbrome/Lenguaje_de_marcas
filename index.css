@@ -1,0 +1,60 @@
+/*BODY*/
+
+body{
+    background-color: rgb(194, 182, 210);
+    background-image: url(photo-1629196914168-3a2652305f9f.jpg);
+}
+.container{
+    width:960px;
+    margin:auto;
+    font-family: 100% sans-serif;
+}
+
+
+/*HEADER*/
+
+header{
+    padding: 17px;
+    margin-right: -11%;
+    background-color:  rgb(86, 26, 121);
+    font: white;
+    color: bisque;
+}
+.nombre_header{
+    color: rgb(241, 243, 238);
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: rgb(6, 3, 0);
+    font-family: 100% monospace;
+    
+}
+.contacta{
+    color: wheat;
+    margin-left: 79%;
+}
+
+/*
+IMAGENES*/
+#imagenes{
+    display: block ruby;
+    margin-right: -12%;
+}
+.salesianas{
+    margin: 70px;
+}
+.accenture{
+    margin: 70px;
+}
+
+
+/*ENLACES A NOTICIAS*/
+h2{
+    color: blueviolet;
+    text-decoration: none;
+}
+h3{
+    text-decoration: none;
+    color: black;
+}
